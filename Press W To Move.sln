@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Press W To Move", "Press W To Move.csproj", "{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{76C6F2E8-8CF8-413B-A63C-E6E2F42F0594}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
